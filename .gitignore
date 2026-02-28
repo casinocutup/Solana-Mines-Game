@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+target/
+.anchor/
+.DS_Store
+*.log
+
+# IDL
+target/idl/
+target/types/
+
+# Test ledger
+test-ledger/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
